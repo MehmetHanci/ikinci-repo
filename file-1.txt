@@ -8,3 +8,5 @@ yeni ekleme 3. ekleme başarılı
 4. ekleme tamamlandı
 
 5. ekleme tamamlandı.
+
+6. ekleme yapıldı
